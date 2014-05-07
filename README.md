@@ -4,7 +4,7 @@ Goals:
 * Practice using Hashes and Arrays
 * Writing your code incrementally
 * Create method for specific tasks
-* Writing "test" (driver) code for your methods, and `puts`ing their return value
+* Writing driver code for your methods, to test that they work correctly
 
 Perform the tasks below, in order, within the `state_info.rb` ruby file.
 
