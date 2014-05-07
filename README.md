@@ -7,7 +7,7 @@
 * Create method for specific tasks
 * Writing driver code for your methods, to test that they work correctly
 
-## Tasks
+## Step-by-Step Tasks
 
 Perform the tasks below, in order, within the `state_info.rb` ruby file.
 
