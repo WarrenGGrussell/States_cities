@@ -1,4 +1,11 @@
-Perform the tasks below, in order, within that one ruby file.
+## Introduction
+
+Goals:
+* Practice using Hashes and Arrays
+* Writing your code incrementally
+* Create method for specific tasks
+
+Perform the tasks below, in order, within the `state_info.rb` ruby file.
 
 ### Task 1
 
