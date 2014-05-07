@@ -1,10 +1,13 @@
 ## Introduction
 
-Goals:
+**Goals:** 
+
 * Practice using Hashes and Arrays
 * Writing your code incrementally
 * Create method for specific tasks
 * Writing driver code for your methods, to test that they work correctly
+
+## Tasks
 
 Perform the tasks below, in order, within the `state_info.rb` ruby file.
 
