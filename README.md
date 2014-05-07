@@ -17,7 +17,7 @@ Insert two additional states into the `Hash`, but without modifying the initial 
 
 ### Task 2
 
-Define another hash called `cities` where the keys are again the state code but the values are arrays of city names.
+Declare another hash called `cities` where the keys are again the state code but the values are arrays of city names.
 
 Add a few (2 to 4) cities for each state.
 
@@ -39,9 +39,7 @@ Define a method `describe_state` that:
 
 ### Task 4
 
-Define another `Hash` called `taxes` which defines taxes for each of the state (eg: `7.5` for 7.5%). You can just make up the values.
-
-I'm pretty confident that the US Gov't will not come after you for misrepresenting their tax information.
+Declare another `Hash` called `taxes` which is responsible for defining taxes for each of the states (eg: `7.5` for 7.5%). You can just make up the values... though I cannot guarantee that the US Gov't will not come after you for misrepresenting their tax information.
 
 ### Task 5
 
